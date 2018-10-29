@@ -1,0 +1,36 @@
+﻿生成启动时间为 2014/10/22 星期三 17:17:15。
+     1>项目“E:\TDDOWNLOAD\Sniffer\Sniffer\Sniffer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Sniffer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D WIN32 /D WPCAP /D HAVE_REMOTE /D _UNICODE /D UNICODE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Sniffer.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SnifferDlg.cpp
+         SnifferDlg.cpp
+     1>e:\tddownload\sniffer\sniffer\snifferdlg.cpp(354): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl(112) : 参见“localtime”的声明
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\TDDOWNLOAD\Sniffer\Debug\Sniffer.exe" /INCREMENTAL /NOLOGO wpcap.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Sniffer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\TDDOWNLOAD\Sniffer\Debug\Sniffer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\TDDOWNLOAD\Sniffer\Debug\Sniffer.lib" /MACHINE:X86 Debug\Sniffer.res
+         Debug\Sniffer.exe.embed.manifest.res
+         Debug\AdpDlg.obj
+         Debug\FilterDlg.obj
+         Debug\Sniffer.obj
+         Debug\SnifferDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Sniffer.exe.embed.manifest" /manifest Debug\Sniffer.exe.intermediate.manifest "E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Sniffer.vcxproj -> E:\TDDOWNLOAD\Sniffer\Debug\Sniffer.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Sniffer.unsuccessfulbuild”。
+         正在对“Debug\Sniffer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\TDDOWNLOAD\Sniffer\Sniffer\Sniffer.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.94

@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018/10/29 12:38:36。
+     1>项目“E:\CoderLife\GitRepo\大二小学期\ChatServer\ChatServer\ChatServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\ChatServer.res" ChatServer.rc 
+     1>ChatServer.rc(206): fatal error RC1015: cannot open include file 'res\ChatServer.rc2'.
+         
+     1>已完成生成项目“E:\CoderLife\GitRepo\大二小学期\ChatServer\ChatServer\ChatServer.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.32
