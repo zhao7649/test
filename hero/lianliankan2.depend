@@ -1,0 +1,494 @@
+# depslib dependency file v1.0
+1471858070 source:f:\16xiaoxueqi\lianliankan2\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1471858253 f:\16xiaoxueqi\lianliankan2\card.h
+
+1471858273 source:f:\16xiaoxueqi\lianliankan2\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1471857640 source:f:\16xiaoxueqi\lianliankan2\kuangjia.cpp
+	<graphics.h>
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+
+1471857640 f:\16xiaoxueqi\lianliankan2\initgame.h
+
+1471857640 f:\16xiaoxueqi\lianliankan2\drawgame.h
+
+1471858361 source:f:\16xiaoxueqi\lianliankan2\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+
+1471857640 f:\16xiaoxueqi\lianliankan2\kuangjia.h
+
+1472094927 source:e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1472094927 e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\card.h
+	<graphics.h>
+
+1472095045 source:e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1472093029 source:e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+
+1471857640 e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\initgame.h
+
+1471857640 e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\drawgame.h
+
+1472093982 source:e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+
+1471911945 e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\kuangjia.h
+
+1472088948 source:e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\gamelogic.cpp
+	"card.h"
+
+1472091963 e:\小学期 2016\课堂代码\lianliankan2\lianliankan2\gamelogic.h
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\lianliankan2\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1472179315 c:\users\athena\desktop\lianliankan2\lianliankan2\card.h
+	<graphics.h>
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\lianliankan2\gamelogic.cpp
+	"card.h"
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\lianliankan2\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\lianliankan2\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+
+1472179315 c:\users\athena\desktop\lianliankan2\lianliankan2\initgame.h
+
+1472179315 c:\users\athena\desktop\lianliankan2\lianliankan2\drawgame.h
+
+1472179315 c:\users\athena\desktop\lianliankan2\lianliankan2\gamelogic.h
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\lianliankan2\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+
+1472179315 c:\users\athena\desktop\lianliankan2\lianliankan2\kuangjia.h
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1472180115 c:\users\athena\desktop\lianliankan2\card.h
+	<graphics.h>
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\gamelogic.cpp
+	"card.h"
+
+1472180262 source:c:\users\athena\desktop\lianliankan2\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+
+1472179315 c:\users\athena\desktop\lianliankan2\initgame.h
+
+1472179315 c:\users\athena\desktop\lianliankan2\drawgame.h
+
+1472179315 c:\users\athena\desktop\lianliankan2\gamelogic.h
+
+1472179315 source:c:\users\athena\desktop\lianliankan2\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+
+1472179315 c:\users\athena\desktop\lianliankan2\kuangjia.h
+
+1472394301 source:c:\users\athena\desktop\lianliankan2 - 副本\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1472394301 c:\users\athena\desktop\lianliankan2 - 副本\card.h
+	<graphics.h>
+
+1472462385 source:c:\users\athena\desktop\lianliankan2 - 副本\gamelogic.cpp
+	"card.h"
+
+1472394301 source:c:\users\athena\desktop\lianliankan2 - 副本\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1472454134 source:c:\users\athena\desktop\lianliankan2 - 副本\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+
+1472179315 c:\users\athena\desktop\lianliankan2 - 副本\initgame.h
+
+1472179315 c:\users\athena\desktop\lianliankan2 - 副本\drawgame.h
+
+1472179315 c:\users\athena\desktop\lianliankan2 - 副本\gamelogic.h
+
+1472180711 source:c:\users\athena\desktop\lianliankan2 - 副本\start.cpp
+	<graphics.h>
+	<stdio.h>
+
+1472460965 source:c:\users\athena\desktop\lianliankan2 - 副本\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+	"start.h"
+
+1472179315 c:\users\athena\desktop\lianliankan2 - 副本\kuangjia.h
+
+1472180711 c:\users\athena\desktop\lianliankan2 - 副本\start.h
+	<stdio.h>
+
+1472394301 source:f:\codes\lianliankan2 - 副本2\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1472394301 f:\codes\lianliankan2 - 副本2\card.h
+	<graphics.h>
+
+1472462385 source:f:\codes\lianliankan2 - 副本2\gamelogic.cpp
+	"card.h"
+
+1472394301 source:f:\codes\lianliankan2 - 副本2\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1472630245 source:f:\codes\lianliankan2 - 副本2\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+
+1472179315 f:\codes\lianliankan2 - 副本2\initgame.h
+
+1472179315 f:\codes\lianliankan2 - 副本2\drawgame.h
+
+1472179315 f:\codes\lianliankan2 - 副本2\gamelogic.h
+
+1472630656 source:f:\codes\lianliankan2 - 副本2\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+	"start.h"
+
+1472179315 f:\codes\lianliankan2 - 副本2\kuangjia.h
+
+1472180711 f:\codes\lianliankan2 - 副本2\start.h
+	<stdio.h>
+
+1472180711 source:f:\codes\lianliankan2 - 副本2\start.cpp
+	<graphics.h>
+	<stdio.h>
+
+1472394301 source:f:\codes\lianliankan2 - xiugaiban\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1472632578 f:\codes\lianliankan2 - xiugaiban\card.h
+	<graphics.h>
+
+1472633745 source:f:\codes\lianliankan2 - xiugaiban\gamelogic.cpp
+	"card.h"
+
+1472632540 source:f:\codes\lianliankan2 - xiugaiban\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1472633212 source:f:\codes\lianliankan2 - xiugaiban\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+
+1472179315 f:\codes\lianliankan2 - xiugaiban\initgame.h
+
+1472179315 f:\codes\lianliankan2 - xiugaiban\drawgame.h
+
+1472179315 f:\codes\lianliankan2 - xiugaiban\gamelogic.h
+
+1472630656 source:f:\codes\lianliankan2 - xiugaiban\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+	"start.h"
+
+1472179315 f:\codes\lianliankan2 - xiugaiban\kuangjia.h
+
+1472180711 f:\codes\lianliankan2 - xiugaiban\start.h
+	<stdio.h>
+
+1472180711 source:f:\codes\lianliankan2 - xiugaiban\start.cpp
+	<graphics.h>
+	<stdio.h>
+
+1472636162 source:c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1472636162 c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\card.h
+	<graphics.h>
+
+1472636162 source:c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\gamelogic.cpp
+	"card.h"
+
+1472636162 source:c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1472636162 source:c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+
+1472636162 c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\initgame.h
+
+1472636162 c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\drawgame.h
+
+1472636162 c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\gamelogic.h
+
+1472636162 source:c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+	"start.h"
+
+1472636162 c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\kuangjia.h
+
+1472636162 c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\start.h
+	<stdio.h>
+
+1472636162 source:c:\users\markyan\documents\tencent files\1182056083\filerecv\lianliankan2 - xiugaiban赵亮\start.cpp
+	<graphics.h>
+	<stdio.h>
+
+1472636162 source:c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1472636162 c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\card.h
+	<graphics.h>
+
+1472636162 source:c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\gamelogic.cpp
+	"card.h"
+
+1472636162 source:c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1472636162 source:c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+
+1472636162 c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\initgame.h
+
+1472636162 c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\drawgame.h
+
+1472636162 c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\gamelogic.h
+
+1472636162 source:c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+	"start.h"
+
+1472636162 c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\kuangjia.h
+
+1472636162 c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\start.h
+	<stdio.h>
+
+1472636162 source:c:\users\markyan\desktop\小学期\lianliankan2 - xiugaiban赵亮\start.cpp
+	<graphics.h>
+	<stdio.h>
+
+1473255735 source:c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1473252111 c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\card.h
+	<graphics.h>
+
+1473253992 source:c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1473258111 source:c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+	"start.h"
+
+1473163029 c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\initgame.h
+
+1473255206 c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\drawgame.h
+
+1473133900 c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\gamelogic.h
+
+1472636162 source:c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+	"start.h"
+
+1472636162 c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\kuangjia.h
+
+1472636162 c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\start.h
+	<stdio.h>
+
+1473255041 source:c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\start.cpp
+	<graphics.h>
+	<stdio.h>
+
+1473252004 source:c:\users\markyan\desktop\小学期\lianliankan2 - diyizu\gamelogic.cpp
+	"card.h"
+	"drawgame.h"
+	"initgame.h"
+	<time.h>
+	"start.h"
+
+1473295232 source:f:\lianliankan2 - diyizu\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1473252112 f:\lianliankan2 - diyizu\card.h
+	<graphics.h>
+
+1473295588 source:f:\lianliankan2 - diyizu\gamelogic.cpp
+	"card.h"
+	"drawgame.h"
+	"initgame.h"
+	<time.h>
+	"start.h"
+
+1473295148 f:\lianliankan2 - diyizu\drawgame.h
+
+1473163030 f:\lianliankan2 - diyizu\initgame.h
+
+1472636164 f:\lianliankan2 - diyizu\start.h
+	<stdio.h>
+
+1473253994 source:f:\lianliankan2 - diyizu\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1473295656 source:f:\lianliankan2 - diyizu\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+	"start.h"
+
+1473133902 f:\lianliankan2 - diyizu\gamelogic.h
+
+1472636164 source:f:\lianliankan2 - diyizu\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+	"start.h"
+
+1472636164 f:\lianliankan2 - diyizu\kuangjia.h
+
+1473296896 source:f:\lianliankan2 - diyizu\start.cpp
+	<graphics.h>
+	<stdio.h>
+
+1473295232 source:h:\lianliankan2 - diyizu\drawgame.cpp
+	<graphics.h>
+	<stdio.h>
+	"card.h"
+
+1473304040 h:\lianliankan2 - diyizu\card.h
+	<graphics.h>
+
+1473295588 source:h:\lianliankan2 - diyizu\gamelogic.cpp
+	"card.h"
+	"drawgame.h"
+	"initgame.h"
+	<time.h>
+	"start.h"
+
+1473295148 h:\lianliankan2 - diyizu\drawgame.h
+
+1473163030 h:\lianliankan2 - diyizu\initgame.h
+
+1472636164 h:\lianliankan2 - diyizu\start.h
+	<stdio.h>
+
+1473302272 source:h:\lianliankan2 - diyizu\initgame.cpp
+	<graphics.h>
+	<time.h>
+	"card.h"
+
+1473295656 source:h:\lianliankan2 - diyizu\kuangjia.cpp
+	"card.h"
+	"initgame.h"
+	"drawgame.h"
+	"gamelogic.h"
+	"start.h"
+
+1473133902 h:\lianliankan2 - diyizu\gamelogic.h
+
+1472636164 source:h:\lianliankan2 - diyizu\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"kuangjia.h"
+	"start.h"
+
+1472636164 h:\lianliankan2 - diyizu\kuangjia.h
+
+1473297844 source:h:\lianliankan2 - diyizu\start.cpp
+	<graphics.h>
+	<stdio.h>
+
